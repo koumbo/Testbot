@@ -5,4 +5,3 @@ torchvision==0.14.1
 transformers==4.26.0
 streamlit==1.18.1
 altair==4.2.2
-torchaudio==0.13.1
